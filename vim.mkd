@@ -22,7 +22,7 @@
      Now, make sure that your Caps-Lock key is NOT depressed and press
      the   j   key enough times to move the cursor so that lesson 1.1
      completely fills the screen.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 # lesson 1.1:  MOVING THE CURSOR
 
 
