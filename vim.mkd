@@ -42,8 +42,9 @@ NOTE: If you are ever unsure about something you typed, press <ESC> to place
 
 NOTE: The cursor keys should also work.  But using hjkl you will be able to
       move around much faster, once you get used to it.  Really!
+
 #   Lesson 1.2: EXITING VIM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
                           
 
 
